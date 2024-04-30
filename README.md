@@ -1,4 +1,4 @@
-# Travel Planner
+# 🚀Travel Planner
 
 Explore the world with a custom itinerary tailored to your preferences using advanced natural language processing powered by Google's Gemini API. This Streamlit app dynamically creates travel plans based on user inputs such as destination, date, budget, and personal interests.
 
